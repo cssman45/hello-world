@@ -1,4 +1,8 @@
 # hello-world
 hello git Lovers
 
-Hello there, living in the present and learning every day is my modo.
+readme-edits
+Hello, living in the present and learning every day is my modo. Oh yeah !
+
+Hello planet earth, living in the present and learning every day is my modo.
+master
